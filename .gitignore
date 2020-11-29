@@ -1,0 +1,8 @@
+node_modules
+apps/countdowner/ios/Pods
+
+.DS_Store
+Thumbs.db
+
+.vscode
+.idea

@@ -1,0 +1,18 @@
+{
+  "name": "Countdowner",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "react-native": "*",
+    "react": "*",
+    "@testing-library/react-native": "*",
+    "react-test-renderer": "*",
+    "@react-native-community/cli-platform-ios": "*",
+    "@testing-library/jest-native": "*",
+    "mobx-state-tree": "*",
+    "mobx-react": "*",
+    "@babel/core": "*",
+    "uuid": "*",
+    "mst-middlewares": "*"
+  }
+}
